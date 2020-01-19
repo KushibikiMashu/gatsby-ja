@@ -1,12 +1,11 @@
 ---
-title: Unit Testing
+title: 単体テスト
 ---
 
-Unit testing is a great way to protect against errors in your code before you
-deploy it. While Gatsby does not include support for unit testing out of the
-box, it only takes a few steps to get up and running. However, there are a few
+単体テストは、デプロイ前のコードをエラーから守る素晴らしい手段です。Gatsby は形式にとらわれず単体テストのサポートを含んでいない一方、少しの手順で単体テストを実行できます。
+However, there are a few
 features of the Gatsby build process that mean the standard Jest setup doesn't
-quite work. This guide shows you how to set it up.
+quite work. This guide shows you how to set it up.。
 
 ## Setting up your environment
 
